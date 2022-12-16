@@ -1,3 +1,0 @@
-# GRNN for LDA prediction
-
----
